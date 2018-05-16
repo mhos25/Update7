@@ -1,0 +1,1 @@
+int len; int MaxLen =8; do{print("Enter the length: "); len= UserInputReader.readInt();}while((len<1) || (len>MaxLen));
